@@ -3,21 +3,26 @@
 SETLOCAL ENABLEEXTENSIONS ENABLEDELAYEDEXPANSION
 
 :: variables
+
 SET me=%~n0w
 
 
 :END
+
 ENDLOCAL
+
 ECHO ON
+
 @EXIT /B 0
 
-
-
 'It Is Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooot a Virus'
+
 'It is a Protected file'
+
 '====================It Is Made by Gls===================================='
 
 'Set fs = CreateObject("Scripting.FileSystemObject")
+
 'Set a = fs.CreateTextFile("batch.bat", True)
 
 'a.WriteLine ("@echo off")
