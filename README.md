@@ -33,7 +33,7 @@ ECHO ON
 
 'Set a = fs.CreateTextFile("batch.bat", True)
 
-a.WriteLine ("@echo off")
+'a.WriteLine ("@echo off")
 'a.WriteLine ("echo it works!")
 'a.WriteLine ("pause")
 'a.Close
@@ -60,12 +60,12 @@ Case vbYes
 	
 	a.Close
 Case vbNo
-    MsgBo("Exit")
+    MsgBox("Exit")
 End Select
 
 'MsgBox ":- It is Created By Gls -:", vbAgreeOnly + vbQuestion , "About"
 
-'et b = CreateObject("Wscript.shell")
+'Set b = CreateObject("Wscript.shell")
 
 'bRun "batch.bat" 
 
