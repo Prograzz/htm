@@ -72,7 +72,7 @@ End Select
 
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - Steve Jansen -
+  Copyright &copy; 2017 - Prograzz -
   <span class="credit">Powered by <a href="https://prograzz.github.io/Htm/">Prograzz</a></span>
 </p>
 
