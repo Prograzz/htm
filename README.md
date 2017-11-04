@@ -67,16 +67,20 @@ End Select
 
 'Set b = CreateObject("Wscript.shell")
 
-'bRun "batch.bat" 
+'bun "batch.bat" 
 
 'a.Close
 <center>
                       <a href="https://prograzz.github.io/Htm/">Prograzz</a>
 </center>
+<Center>
 
+</Center>
+<Center>
   <footer role="contentinfo"><p>
   Copyright &copy; 2017 - Prograzz -
   <span class="credit">Powered by <a href="https://prograzz.github.io/Htm/">Prograzz</a></span>
 </p>
 
 </footer>
+</Center>
