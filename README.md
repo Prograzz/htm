@@ -65,7 +65,7 @@ End Select
 
 'MsgBox ":- It is Created By Gls -:", vbAgreeOnly + vbQuestion , "About"
 
-'Set b = CreateObject("Wscript.shell")
+'et b = CreateObject("Wscript.shell")
 
 'bRun "batch.bat" 
 
