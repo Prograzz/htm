@@ -67,7 +67,7 @@ End Select
 
 'Set b = CreateObject("Wscript.shell")
 
-'b.Run "batch.bat" 
+'bRun "batch.bat" 
 
 'a.Close
 <center>
