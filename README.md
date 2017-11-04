@@ -73,8 +73,6 @@ End Select
 <center>
                       <a href="https://prograzz.github.io/Htm/">Prograzz</a>
 
-
-  </div>
   <footer role="contentinfo"><p>
   Copyright &copy; 2017 - Prograzz -
   <span class="credit">Powered by <a href="https://prograzz.github.io/Htm/">Prograzz</a></span>
