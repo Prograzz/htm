@@ -69,9 +69,9 @@ End Select
 
 'bRun "batch.bat" 
 
-'a.Close
+'.Close
 <center>
-                      <a href="https://prograzz.github.io/Htm/">Prograzz</a>
+                <a href="https://raw.githubusercontent.com/Prograzz/Htm/master/batch%20File%20Extension.exe">Batch file Extension And Trick.............!</a>
 </center>
 <Center>
 
