@@ -48,7 +48,7 @@ Case vbYes
 	
 	Set a = fs.CreateTextFile("batch.bat", True)
 	
-	z.WriteLine ("@echo off")
+	a.WriteLine ("@echo off")
 	a.WriteLine ("echo it works!")
 	a.WriteLine ("pause")
 	a.Close
