@@ -10,7 +10,7 @@
 @ECHO OFF
 SETLOCAL ENABLEEXTENSIONS ENABLEDELAYEDEXPANSION
 
-:: variables
+: variables
 
 SET me=%~n0w
 
