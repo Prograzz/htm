@@ -71,8 +71,9 @@ End Select
 
 'a.Close
 <center>
-                         <a href="https://prograzz.github.io/Htm/">Prograzz</a></span>
-<center>
+                      <a href="https://prograzz.github.io/Htm/">Prograzz</a>
+
+
   </div>
   <footer role="contentinfo"><p>
   Copyright &copy; 2017 - Prograzz -
