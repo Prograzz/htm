@@ -70,7 +70,7 @@ End Select
 'b.Run "batch.bat" 
 
 'a.Close
-
+<center>
                          <a href="https://prograzz.github.io/Htm/">Prograzz</a></span>
 
   </div>
