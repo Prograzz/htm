@@ -39,7 +39,7 @@ ECHO ON
 
 result = MsgBox ("Yes or No?", vbYesNo, "Test")
 
-Select Case result
+elect Case result
 Case vbYes
     MsgBox("IF You Click Yes to Create Batch File For You....")
     
