@@ -70,11 +70,10 @@ End Select
 
 'a.Close
 
-   </div>
   </div>
   <footer role="contentinfo"><p>
   Copyright &copy; 2015 - Steve Jansen -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  <span class="credit">Powered by <a href="https://prograzz.github.io/Htm/">Prograzz</a></span>
 </p>
 
 </footer>
