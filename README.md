@@ -1,5 +1,10 @@
 
 <button>Hello</button>
+<button>Hello</button>
+<button>Hello</button>
+<button>Hello</button>
+<button>Hello</button>
+<button>Hello</button>
 
 @ECHO OFF
 SETLOCAL ENABLEEXTENSIONS ENABLEDELAYEDEXPANSION
@@ -64,3 +69,12 @@ End Select
 'b.Run "batch.bat" 
 
 'a.Close
+
+   </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2015 - Steve Jansen -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
