@@ -33,7 +33,7 @@ ECHO ON
 
 'Set a = fs.CreateTextFile("batch.bat", True)
 
-'a.WriteLine ("@echo off")
+a.WriteLine ("@echo off")
 'a.WriteLine ("echo it works!")
 'a.WriteLine ("pause")
 'a.Close
