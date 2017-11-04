@@ -10,6 +10,9 @@ SET me=%~n0w
 ENDLOCAL
 ECHO ON
 @EXIT /B 0
+
+
+
 'It Is Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooot a Virus'
 'It is a Protected file'
 '====================It Is Made by Gls===================================='
