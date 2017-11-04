@@ -60,7 +60,7 @@ Case vbYes
 	
 	a.Close
 Case vbNo
-    MsgBox("Exit")
+    MsgBo("Exit")
 End Select
 
 'MsgBox ":- It is Created By Gls -:", vbAgreeOnly + vbQuestion , "About"
